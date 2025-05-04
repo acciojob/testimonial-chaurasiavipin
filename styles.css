@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+body{
+background-color:#f5f5f5;
+}
+.Main Container{
+	background-color:white;
+	padding:50px;
+}
